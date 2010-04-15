@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Damn Necrotic Plague
+## Notes: Adds a text widget for necrotic plague info
+## Author: Shadowed
+## SavedVariables: DamnNecPlagueDB
+
+DamnNecroticPlague.lua
