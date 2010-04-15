@@ -3,7 +3,6 @@ local PLAGUE_DEBUFF = GetSpellInfo(73787)
 local TICK_INTERVALS = 5
 local TICK_BASE = 150000
 local PER_STACK = 50000
-PLAGUE_DEBUFF = "Faerie Fire"
 
 function NecroticPlague:ADDON_LOADED(addon)
 	if( addon ~= "DamnNecroticPlague" ) then return end
